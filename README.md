@@ -1,7 +1,6 @@
-# CS6216 Project
-Reproduction of Stochastic Gradient Hamiltonian Monte Carlo (SGHMC)
+# CS6216 Project: Reproduction of Stochastic Gradient Hamiltonian Monte Carlo (SGHMC)
 
-We reproduce experiments in SGHMC, and also extend to Fashion-MNIST, momentum and Adam optimizer.
+We reproduce experiments in SGHMC, and also extend to Fashion-MNIST, momentum and Adam optimizer. Our implementation is in Python 3 environment. 
 
 ## 1. Toy sampling example implementation
    toy.py
